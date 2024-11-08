@@ -5,5 +5,12 @@
         "text": "Your Elgato capture card or camera now works with iPad! Control recording, volume and input devices via any Stream Deck.",
         "url": "https://apps.apple.com/de/app/elgato-capture/id6456798479",
         "logoPath": "logos/ElgatoCapture512.png"
+    },
+    {
+        "title": "Detail: Camera & Video Editor",
+        "creator": "Detail Technologies B.V.",
+        "text": "Record & edit reaction videos, podcasts, and presentations.",
+        "url": "https://apps.apple.com/app/apple-store/id1673518618?pt=122522774&ct=streamdeck&mt=8",
+        "logoPath": "logos/Detail512.png"
     }
 ]
