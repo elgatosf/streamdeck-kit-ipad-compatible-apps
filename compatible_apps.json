@@ -7,6 +7,13 @@
         "logoPath": "logos/ElgatoCapture512.png"
     },
     {
+        "title": "Cascable Studio",
+        "creator": "Cascable AB",
+        "text": "Control & automate your DSLR or mirrorless camera from Canon, Nikon, Sony, and more right from your Stream Deck.",
+        "url": "https://apps.apple.com/us/app/cascable-wifi-camera-remote/id974193500?mt=8&ct=streamdeckconnect",
+        "logoPath": "logos/CascableStudio512.png"
+    },
+    {
         "title": "Detail: Camera & Video Editor",
         "creator": "Detail Technologies B.V.",
         "text": "Record & edit reaction videos, podcasts, and presentations.",
