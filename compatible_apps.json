@@ -19,5 +19,12 @@
         "text": "Record & edit reaction videos, podcasts, and presentations.",
         "url": "https://apps.apple.com/app/apple-store/id1673518618?pt=122522774&ct=streamdeck&mt=8",
         "logoPath": "logos/Detail512.png"
+    },
+    {
+        "title": "Camo Studio",
+        "creator": "Reincubate",
+        "text": "Create video content or run a stream straight from your iPad.",
+        "url": "https://apps.apple.com/app/apple-store/id6450313385?pt=2183414&ct=streamdeckconnect&mt=8",
+        "logoPath": "logos/CamoStudio512.png"
     }
 ]
